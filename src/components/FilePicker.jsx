@@ -29,7 +29,7 @@ export const FilePicker = ({ file, setFile, readFile }) => {
         />
         <CustomButton
           type="filled"
-          title="Full"
+          title="Completo"
           handleClick={() => readFile("full")}
           customStyles="text-xs"
         />

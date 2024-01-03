@@ -4,6 +4,6 @@ export const state = proxy({
   color: "#EFBD48",
   isLogoTexture: true,
   isFullTexture: false,
-  logoDecal: "./naruto.png",
+  logoDecal: "./threejs.png",
   fullDecal: "./threejs.png",
 });
